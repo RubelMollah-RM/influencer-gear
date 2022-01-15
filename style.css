@@ -201,7 +201,9 @@ ul{
        grid-template-columns: repeat(1,1fr);
         flex-direction: column;
     }
-
+    .heading-img{
+        margin-left: 0px;
+    }
     .section2{
         grid-template-columns: repeat(1,1fr);
     }
